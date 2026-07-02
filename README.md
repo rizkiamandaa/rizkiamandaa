@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi, I'm Rizki Amanda Putri 👋
 
-<!--
-**rizkiamandaa/rizkiamandaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | NLP Engineer based in Medan, Indonesia 🇮🇩
 
-Here are some ideas to get you started:
+I specialize in Natural Language Processing for the Indonesian language — building end-to-end systems from transformer-based models to production-ready RAG pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔨 What I Build
+
+RAG Systems — Retrieval-Augmented Generation pipelines for Indonesian-language documents (LlamaIndex + ChromaDB + Gemini API)
+NLP Pipelines — Sentiment analysis, topic modeling, and abstractive summarization using IndoBERT and BERTopic
+LLM Applications — Streamlit-based apps powered by Gemini API via REST
+
+🛠️ Tech Stack
+
+NLP / ML: Transformers · IndoBERT · BERTopic · Sentiment Analysis · RAG · Embedding Models · Scikit-learn
+
+LLM & Tools: Gemini API · Prompt Engineering · REST APIs · LlamaIndex · ChromaDB
+
+Data: Pandas · NumPy · Data Cleaning · Exploratory Data Analysis
+
+📌 Featured Projects
+
+🔍 RAG Regulasi Indonesia
+
+AI-powered Q&A system for Indonesian government regulation documents.
+Built with LlamaIndex + ChromaDB + Gemini API, with OCR support for scanned documents.
+
+
+Python | RAG | LlamaIndex | ChromaDB | Gemini API | Tesseract OCR
+
+
+
+📝 Product Review Summarizer
+
+End-to-end NLP pipeline for Indonesian e-commerce product reviews.
+Combines IndoBERT sentiment analysis, BERTopic topic modeling, and Gemini LLM abstractive summarization.
+
+
+Python | IndoBERT | BERTopic | Gemini API | Streamlit
+
+
+Currently open to AI/NLP Engineer roles and fellowships. Always building something with Indonesian language data. 🚀
