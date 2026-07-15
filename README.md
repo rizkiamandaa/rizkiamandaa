@@ -42,6 +42,10 @@ End-to-end NLP pipeline for Indonesian e-commerce product reviews.
 Combines **IndoBERT** sentiment analysis, **BERTopic** topic modeling, and **Gemini LLM** abstractive summarization.
 > `Python` `IndoBERT` `BERTopic` `Gemini API` `Streamlit`
 
+### 📊 [Insurance Cross-Sell Predictor](https://github.com/rizkiamandaa/Insurance-Cross-Sell-Predictor)
+ML pipeline for predicting vehicle insurance cross-sell using XGBoost, SHAP explainability, and Gemini AI insight.
+> `Python` `XGBoost` `SHAP` `Gemini API` `Streamlit`
+
 ---
 
 ## 📫 Let's Connect
